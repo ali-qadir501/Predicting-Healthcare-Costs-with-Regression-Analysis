@@ -1,6 +1,6 @@
 # Predicting-Healthcare-Costs-with-Regression-Analysis
 Problem Statement: Healthcare cost prediction enables better resource allocation for insurance providers and aids customers in effective budgeting for healthcare expenses.
-'https://raw.githubusercontent.com/KeithGalli/Regression-Example/refs/heads/master/insurance.csv'
+
 Objective: To predict healthcare costs for insurance customers to help guide personalized healthcare planning and cost management.
 Data Overview
 Key Features:
