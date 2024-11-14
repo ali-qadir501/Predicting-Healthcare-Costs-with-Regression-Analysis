@@ -2,6 +2,7 @@
 Problem Statement: Healthcare cost prediction enables better resource allocation for insurance providers and aids customers in effective budgeting for healthcare expenses.
 
 Objective: To predict healthcare costs for insurance customers to help guide personalized healthcare planning and cost management.
+
 Data Overview
 Key Features:
 age: Age of primary beneficiary
